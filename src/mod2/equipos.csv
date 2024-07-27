@@ -1,0 +1,16 @@
+cod_equipo,Nombre,Descripcion,precio_unitario,garantia
+QP-K101,Kuaa,Convertible 10.1 pulgadas Celeron 4GB RAM 320GB Disco Dual Boot Refresh SKD,3000,12 meses
+QP-SK105,Super Kuaa,Convertible 10.1 pulgadas Memoria RAM 8GB SSD 480GB,3300,12 meses
+QP-TPC200,Tablet-Pc,Procesador Intel Celeron N4100 Memoria RAM 4GB DDR4 SSD SATA 256GB Windows 11 Pro Graficos Intel UHD Graphics 600,3500,6 meses
+QP-CPE250,Computadora Portatil Educativa,Procesador Intel Celeron N5095 Memoria RAM 8GB DDR4 SSD SATA 348GB Windows 11 Pro Graficos Intel UHD Graphics 60Hz,3500,6 meses
+QP-QP100,Quipad,Procesador Intel Celeron N4020 Memoria RAM 4GB DDR4 SSD SATA 256GB Windows 11 Pro Graficos Intel UHD Graphics 60Hz,3200,12 meses
+QP-QP200,Quipad V2,Procesador Intel Celeron N5095 Memoria RAM 8GB DDR4 SSD SATA 348GB Windows 11 Pro Graficos Intel UHD Graphics 60Hz,3500,12 meses
+QP-KC500,Khunpa Core i5,Procesador Intel Core I5-1135G7 11va. Generación Memoria RAM 8GB DDR4 SSD SATA 512GB Windows 11 Pro Graficos Intel® Iris® Xe Graphics/ max 1.30 GHz,6500,12 meses
+QP-SC700,Sami Core i7,Procesador Intel Core I7-1165G7 11va. Generación Memoria RAM 16GB DDR4 SSD SATA 512GB Windows 11 Pro Graficos Intel® Iris® Xe Graphics/ max 1.30GHz GHz,7500,12 meses
+QP-SC1000,Sami V2,Procesador Gen Intel ® Core TM i7-1255U - 4.70 GHz Intel 12th. Memoria RAM 16GB DDR4 expandible SSD SATA 1TB expandible a 2TB Windows 11 Pro Intel® Iris® Xe (Tarjeta de Video Integrado),9500,18 meses
+QP-AIOB100,Bennett,Procesador Gen Intel ® Core TM i7-11800 - 4.60 GHz Intel 11va. Generación Memoria RAM 16GB DDR4 SSD SATA 1TB Windows 11 Pro Graficos Intel ® UHD Graphics tarjeta de video integrada,8500,18 meses
+QP-AIOB200,Bennet V2,Procesador Gen Intel ® Core TM i7-11800 - 4.60 GHz Intel 11va. Generación Memoria RAM 32GB DDR4 SSD SATA 1TB Windows 11 Pro Graficos Intel ® UHD Graphics tarjeta de video integrada,8700,18 meses
+QP-AIOB300,Bennet V3,Procesador Gen Intel ® CoreTM i7-1255U - 4.70 GHz Intel 12th. Memoria RAM 2x Slot DDR4 (expandible) hasta 32GB. 16 GB DDR4 (Incluida) SSD 1 TB - 1 x Slot PCIe SSD M.2 (expandible hasta 2 TB). Windows 11 Pro Graficos Intel® Iris® Xe (Tarjeta de Video Integrado),9000,24 meses
+QP-NY50,Nayra,"Tecnologia Display 4"" LCD Lente Full Sealed Optical Engine Resolución 1920*1080P 4K Supported OS Android 9.0 ROM 1GB RAM 8GB ",3500,24 meses
+QP-HEKA120,Quipus Heka,"Celular gama media Pantalla 57"" Procesador Dual Core 12Ghz Tecnologia 4g LTE Almacenamiento 32GB Memoria RAM 2GB Camara 8mpx",1200,24 meses
+QP-TINKU300,Quipus Tinku,"Celular gama media Pantalla 6"" Procesador Quad Core 15Ghz Tecnologia 4g LTE Almacenamiento 64GB Memoria RAM 4GB Camara 13mpx",1800,24 meses
